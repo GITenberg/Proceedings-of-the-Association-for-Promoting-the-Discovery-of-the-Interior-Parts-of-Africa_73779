@@ -1,0 +1,34 @@
+_repo: Proceedings-of-the-Association-for-Promoting-the-Discovery-of-the-Interior-Parts-of-Africa_73779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Association for Promoting the Discovery of the Interior Parts of Africa
+    aliases:
+    - Africa, Association for Promoting the Discovery of the Interior Parts of
+    - African Association (London, England)
+    - Gesellschaft zur Beförderung der Entdeckungen im Innern von Africa
+    - Gesellschaft zur Beforderung der Entdeckungen im Innern von Africa
+    gutenberg_agent_id: '56087'
+    url: http://www.gutenberg.org/2009/agents/56087
+    wikipedia: https://en.wikipedia.org/wiki/African_Association
+description: ''
+gutenberg_issued: '2024-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73779'
+language: en
+pgterms:marc904: https://archive.org/details/proceedingsofass00asso
+pgterms:marc905: 20240506233907author
+pgterms:marc906: '1790'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Smithsonian Institution Libraries)
+publication_note: '  $aLondon :$bC. Macrae, $c1790.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Proceedings of the Association for Promoting the Discovery of the Interior
+  Parts of Africa
+url: http://www.gutenberg.org/ebooks/73779
